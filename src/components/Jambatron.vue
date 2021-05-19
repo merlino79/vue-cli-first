@@ -22,12 +22,13 @@ export default {
   width: 80%;
   height: 200px;
   margin: 0 auto;
-  background-color: bisque;
+  background-color: rgb(245, 240, 155);
 }
 
 .jambatron h1{
   text-align: center;
   line-height: 200px;
+  color: rgb(107, 247, 107);
 }
 
 
