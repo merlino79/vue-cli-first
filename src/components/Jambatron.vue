@@ -1,9 +1,7 @@
 <template>
 <main>
  <div class="jambatron">
-   <h1>
-    Arsenè
-   </h1>
+  <img src="/img/lupen.jpg" alt="">
   
  </div>
 </main>
@@ -29,6 +27,11 @@ export default {
   text-align: center;
   line-height: 200px;
   color: rgb(107, 247, 107);
+}
+
+img{
+  max-width: 100%;
+  
 }
 
 
