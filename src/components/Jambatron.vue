@@ -20,7 +20,7 @@ export default {
   width: 80%;
   height: 200px;
   margin: 0 auto;
-  background-color: rgb(245, 240, 155);
+  
 }
 
 .jambatron h1{
@@ -32,6 +32,11 @@ export default {
 img{
   max-width: 100%;
   
+}
+img:hover{
+   transition: all 5s;
+    filter: sepia(90%);
+    border-radius: 7%;
 }
 
 
