@@ -1,16 +1,13 @@
 <template>
- 
-    <h1>
-      il mio primo Node - Vue
-    </h1>
+<main>
+  ciao ale
+</main>
   
 </template>
 
 <script>
 export default {
-
-  name: 'Title'
-  
+  name: 'main'
 
 }
 </script>
